@@ -6,7 +6,7 @@ My website portfolio
 ![alt text](https://github.com/Sanathbny/Portfolio-github/blob/master/images/portfolio/portfolio_website.JPG)
 
 ### Mobile View
-![alt text](https://github.com/alisolanki/Portfolio/blob/master/Portfolio_mobile.PNG)
+![alt text](https://github.com/Sanathbny/Portfolio-github/blob/master/images/portfolio/portfolio_mobile.jpg)
 
 ## Author
 * Sai Sanath Medapureddi
